@@ -8,4 +8,4 @@
 
 **Feature Database:** Stores embeddings per track ID, allowing comparison across frames. The global_id_map ensures consistent IDs for reidentified people.
 
-**Visualization:** Bounding boxes and global IDs are drawn on the frame, and the output is saved as output.mp4.
+**Visualization:** Bounding boxes and global IDs are drawn on the frame, and the output is saved as output_single_feed.mp4.
